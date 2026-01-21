@@ -2,7 +2,7 @@ module github.com/rancher/dynamiclistener
 
 go 1.25.0
 
-replace github.com/rancher/wrangler/v3 => github.com/iYashMaurya/wrangler/v3 v3.0.0-20260111155633-72014ddd7f4b
+replace github.com/rancher/wrangler/v3 => github.com/iYashMaurya/wrangler/v3 v3.0.0-20260121071150-3e56f706b8b5
 
 require (
 	github.com/rancher/wrangler/v3 v3.3.1
